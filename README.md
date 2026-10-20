@@ -1,0 +1,32 @@
+# Cinema Management System 🎟️🎬
+
+A comprehensive desktop-based cinema operations and ticket booking management system built using Java (NetBeans) and MySQL. Developed as a collaborative academic project to streamline movie scheduling, ticket transactions, and administrative controls.
+
+---
+
+## 📌 Project Overview
+The Cinema Management System is designed to digitize and manage core theater workflows. It handles employee/admin authentication, movie catalog management, dynamic showtime scheduling, interactive ticket booking, and real-time transaction processing.
+
+---
+
+## 🛠️ System Architecture & Features
+
+### 1. Key Modules
+* **Authentication & Role-Based Access:** Secure login mechanism supporting distinct roles (Employee/Cashier and Admin) with credential verification and user registration.
+* **Ticket Booking System:** Allows users to browse active movies, select showtimes, choose ticket categories (Adult/Child), calculate totals automatically (including tax), and generate transaction receipts.
+* **Admin CRUD Panel:** Dedicated interface for administrators to manage movie catalogs (add, update, delete film details like title, genre, duration, and price), manage showtime schedules, and review overall booking data.
+
+### 2. Database Structure (`MySQL`)
+The relational database consists of 4 main tables:
+* `akun`: Manages user credentials and roles.
+* `film`: Stores movie details (title, genre, duration, price, and poster image path).
+* `jadwal`: Links movies with specific screening dates and times.
+* `transaksi`: Records ticket sales, quantity, total price, and timestamps linked to customer orders.
+
+---
+
+## 💻 Tech Stack & Environment
+* **Programming Language:** Java (NetBeans 8.2)
+* **Database:** MySQL / phpMyAdmin
+* **Tools:** Java Swing (UI)
+
