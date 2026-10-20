@@ -11,7 +11,7 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ## 📱 Application features
 
-- Ticket Booking System
+- **Ticket Booking System**
   
   - Login
 
