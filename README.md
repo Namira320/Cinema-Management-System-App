@@ -11,13 +11,15 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ## 📱 Application features
 
-- Login
+- Ticket Booking System
+  
+  - Login
 
-  <img width="496" height="455" alt="image" src="https://github.com/user-attachments/assets/7ca5d207-38bf-492d-a144-2363739da5a3" />
+    <img width="496" height="455" alt="image" src="https://github.com/user-attachments/assets/7ca5d207-38bf-492d-a144-2363739da5a3" />
 
-- Dashboard
+  - Dashboard
 
-  <img width="862" height="692" alt="image" src="https://github.com/user-attachments/assets/a211a790-2351-4017-a1e1-46233a3ea1bb" />
+    <img width="862" height="692" alt="image" src="https://github.com/user-attachments/assets/a211a790-2351-4017-a1e1-46233a3ea1bb" />
 
 
 
