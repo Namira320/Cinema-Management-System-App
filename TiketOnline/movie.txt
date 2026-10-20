@@ -1,0 +1,138 @@
+
+Nama Film: Avengers
+Tiket Dewasa: 2
+Tiket Anak: 2
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 16:00
+Total Bayar: Rp 112200
+
+Nama Film: Parasite
+Tiket Dewasa: 1
+Tiket Anak: 2
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 10:00
+Total Bayar: Rp 71400
+
+Nama Film: Avengers End Game
+Tiket Dewasa: 1
+Tiket Anak: 1
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: 0
+
+Nama Film: Parasite
+Tiket Dewasa | No. Kursi: 2 | null null
+Tiket Anak | No. Kursi : 1 | null
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 10:00
+Total Bayar: Rp 96900
+
+Nama Film: Parasite
+Tiket Dewasa | No. Kursi: 2 | 4 6
+Tiket Anak | No. Kursi : 1 | 5 
+Tanggal dan Waktu: Rabu, 25 Desember 2019 | 00:00
+Total Bayar: Rp 96900
+
+Nama Film: Avengers
+Tiket Dewasa | No. Kursi: 2 | 2 4
+Tiket Anak | No. Kursi : 1 | 3 
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 12:00
+Total Bayar: Rp 96900
+
+Nama Film: Avengers End Game
+Tiket Dewasa | No. Kursi: 2 | 1 
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: Rp 81600
+
+Nama Film: Avengers End Game
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: Rp 40800
+
+Nama Film: Avengers End Game
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: 0
+
+Nama Film: Spiderman Far From Home
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 2 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 71400
+
+Nama Film: Jumanji The Next Level
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 14:00
+Total Bayar: Rp 56100
+
+Nama Film: Spiderman Far From Home
+Tiket Dewasa | No. Kursi: 2 |  
+Tiket Anak | No. Kursi : 2 |  
+Tanggal dan Waktu: Minggu, 22 Desember 2019 | 12:00
+Total Bayar: Rp 112200
+
+Nama Film: Avengers
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Senin, 23 Desember 2019 | 12:00
+Total Bayar: Rp 56100
+
+Nama Film: Frozen II
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 56100
+
+Nama Film: Toy Story 4
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 2 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 71400
+
+Nama Film: Toy Story 4
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 2 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 71400
+
+Nama Film: Frozen II
+Tiket Dewasa | No. Kursi: 2 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 12:00
+Total Bayar: Rp 96900
+
+Nama Film: Jumanji The Next Level
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 16:00
+Total Bayar: Rp 56100
+
+Nama Film: Jumanji The Next Level
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 56100
+
+Nama Film: Frozen II
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 12:00
+Total Bayar: Rp 56100
+
+Nama Film: Toy Story 4
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Senin, 23 Desember 2019 | 10:00
+Total Bayar: Rp 56100
+
+Nama Film: Jumanji The Next Level
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Senin, 23 Desember 2019 | 14:00
+Total Bayar: Rp 56100
+
+Nama Film: Jumanji The Next Level
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 1 |  
+Tanggal dan Waktu: Sabtu, 21 Desember 2019 | 10:00
+Total Bayar: Rp 56100
