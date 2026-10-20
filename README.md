@@ -15,6 +15,13 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
   <img width="496" height="455" alt="image" src="https://github.com/user-attachments/assets/7ca5d207-38bf-492d-a144-2363739da5a3" />
 
+- Dashboard
+
+  <img width="1137" height="592" alt="image" src="https://github.com/user-attachments/assets/07d64fe1-9556-40a9-a117-fd2efec48c47" />
+  <img width="1140" height="322" alt="image" src="https://github.com/user-attachments/assets/a2cedebd-18d6-4b5a-b294-742bc1966f81" />
+
+
+
 
 ## 🛠️ System Architecture & Features
 
