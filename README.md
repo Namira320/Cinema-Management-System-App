@@ -9,6 +9,13 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ---
 
+## 📱 Application features
+
+- Login
+
+  <img width="496" height="455" alt="image" src="https://github.com/user-attachments/assets/7ca5d207-38bf-492d-a144-2363739da5a3" />
+
+
 ## 🛠️ System Architecture & Features
 
 ### 1. Key Modules
@@ -27,6 +34,6 @@ The relational database consists of 4 main tables:
 
 ## 💻 Tech Stack & Environment
 * **Programming Language:** Java (NetBeans 8.2)
-* **Database:** MySQL / phpMyAdmin
+* **Database:** MySQL / DBeaver
 * **Tools:** Java Swing (UI)
 
