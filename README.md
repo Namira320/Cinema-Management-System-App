@@ -78,10 +78,4 @@ The relational database consists of 4 main tables:
 * `jadwal`: Links movies with specific screening dates and times.
 * `transaksi`: Records ticket sales, quantity, total price, and timestamps linked to customer orders.
 
----
-
-## 💻 Tech Stack & Environment
-* **Programming Language:** Java (NetBeans 8.2)
-* **Database:** MySQL / DBeaver
-* **Tools:** Java Swing (UI)
 
