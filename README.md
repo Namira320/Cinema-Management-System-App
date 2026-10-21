@@ -9,6 +9,19 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ---
 
+## 💻 Tech Stack & Environment
+* **Programming Language:** Java (NetBeans 8.2)
+* **Database:** MySQL / DBeaver
+* **Tools:** Java Swing (UI)
+
+---
+
+### 🎥 Project Demo
+
+
+
+---
+
 ## 📱 Application features
 
 - **User Ticket Booking System**
