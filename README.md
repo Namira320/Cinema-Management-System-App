@@ -18,7 +18,7 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ### 🎥 Project Demo
 
-<video src="./project demo.mp4" controls width="100%"></video>
+<video src="./project%20demo.mp4" controls width="100%"></video>
 
 ---
 
