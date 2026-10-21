@@ -17,9 +17,11 @@ The Cinema Management System is designed to digitize and manage core theater wor
 ---
 
 ## 📺 Demo Video
+
 [![Watch the video](https://img.youtube.com/vi/DJYe5yb83Kw/hqdefault.jpg)](https://youtu.be/DJYe5yb83Kw)
 
 ## 📄 Project Documentation
+
 - [Functional Specification Document (PDF)](link-pdf-kamu)
 
 ---
