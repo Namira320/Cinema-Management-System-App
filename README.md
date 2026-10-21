@@ -18,7 +18,7 @@ The Cinema Management System is designed to digitize and manage core theater wor
 
 ### 🎥 Project Demo
 
-👉 [Watch the video](./project%20demo.mp4)
+### 🔗 [Watch the Video](https://raw.githubusercontent.com/Namira320/Cinema-Management-System-App/main/project%20demo.mp4)
 
 ---
 
